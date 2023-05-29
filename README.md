@@ -10,7 +10,7 @@ Want to jump around like a rabbit? 🐇
 - Source code
 
 <div align="center">
-<img src="https://cdn.discordapp.com/attachments/1112536497405579406/1112558590356631742/image.png" align="center" style="width: 50%" />
+<img src="https://cdn.discordapp.com/attachments/1112536497405579406/1112559913403691048/image.png" align="center" style="width: 50%" />
 </div>  
 
 ## Authors
