@@ -1,8 +1,18 @@
-# Valorant AutoBhop
+# Valorant AutoBhop 🤍
 
-<p align="center">
-  <h2>🤍 Valorant AutoBhop 🤍</h2></br>
-  <br><br>
-    <img src="https://cdn.discordapp.com/attachments/1112536497405579406/1112557890704777321/hub.png">
-    <br><br>
-</p>
+Want to jump around like a rabbit? 🐇
+
+## Features
+
+- Undetected
+- Easy to install
+- Easy to use
+- Source code
+
+<div align="center">
+<img src="https://discord.com/channels/1109120106295988298/1112536497405579406/1112558590826389514" align="center" style="width: 50%" />
+</div>  
+
+## Authors
+
+- [@Atsuyo](https://www.github.com/atsuyo20)
